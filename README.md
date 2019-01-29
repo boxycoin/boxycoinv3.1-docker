@@ -3,6 +3,7 @@ Dockerfile to build BOXY Coin Wallet V3.1 in Ubuntu 16.04 Container
 
 ## System Requirements
 * Docker for Desktop (Mac OSX, WIN, linux)
+* Or any other installation capable of building docker images.
 
 ## Features:
 * Builds boxyd from source in Ubuntu 16.04 container.
