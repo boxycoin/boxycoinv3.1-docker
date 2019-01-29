@@ -1,6 +1,8 @@
 # boxycoinv3.1-docker
 Dockerfile to build BOXY Coin Wallet V3.1 in Ubuntu 16.04 Container
 
+## DOCKER IMAGE hosted at [hub.docker.com](https://hub.docker.com/r/boyroywax/boxy-wallet-v3.1-ubuntu16.04)
+
 ## System Requirements
 * Docker for Desktop (Mac OSX, WIN, linux)
 * Or any other installation capable of building docker images.
